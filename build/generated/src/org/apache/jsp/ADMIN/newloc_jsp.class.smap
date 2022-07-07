@@ -1,0 +1,10 @@
+SMAP
+newloc_jsp.java
+JSP
+*S JSP
+*F
++ 0 newloc.jsp
+ADMIN/newloc.jsp
+*L
+2,26:44
+*E
